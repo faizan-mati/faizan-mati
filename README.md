@@ -1,7 +1,8 @@
 # <div align="center">🚀 Welcome to Faizan's Code Universe 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Faizan+Mati+%F0%9F%91%8B;Full+Stack+Developer+%26+Team+Lead+%F0%9F%9A%80;Founder+of+EVO+TECH+STUDIO+%F0%9F%92%BC;Building+Scalable+Web+Solutions+%E2%9C%A8;1.5%2B+Years+of+Coding+Excellence+%F0%9F%94%A5" alt="Typing SVG" />
+ 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Faizan+Mati;Full+Stack+Developer;Team+Lead+%26+Entrepreneur;Building+Amazing+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
