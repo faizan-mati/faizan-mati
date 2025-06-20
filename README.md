@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+The+Future+With+Code;🎯+Scaling+Teams+%26+Solutions;🤖+AI+%2B+Enterprise+Systems+Expert;💡+Innovation+Through+Technology" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Building+The+Future+With+Code;Scaling+Teams+and+Solutions;AI+and+Enterprise+Systems+Expert;Innovation+Through+Technology" alt="Dynamic Typing Animation" />
 </div>
 
 <div align="center">
