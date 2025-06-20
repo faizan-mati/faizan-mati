@@ -1,215 +1,235 @@
-# <div align="center">🚀 Welcome to Faizan's Code Universe 🚀</div>
+# <div align="center">👋 Hey there, I'm Faizan Mati</div>
 
 <div align="center">
- 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Faizan+Mati;Full+Stack+Developer;Team+Lead+%26+Entrepreneur;Building+Amazing+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+Team+Lead;Building+Scalable+Solutions;AI+%26+Enterprise+Systems+Expert" alt="Typing Animation" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600" alt="coding animation">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</picture>
 
+---
+
+## 🎯 **About Me**
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**🚀 Current Roles**
+- **Software Engineer & Team Lead** @ AI Ameera Apparel
+- **Founder** @ EVO TECH STUDIO
+- **AI Engineering Student** (Presidential Initiative)
+
+**🎓 Education**
+- BS Computer Science @ Ilma University (2024-2028)
+- Diploma in CIT @ MITI (2021-2024)
+
+</td>
+<td width="50%">
+
+**📍 Location**
+Korangi, Karachi, Pakistan 🇵🇰
+
+**📬 Contact**
+- 📧 faizanmatee@gmail.com
+- 📱 +92 324 3354583
+- 🌐 [Portfolio Website](https://faizan-mati.github.io/MyPortfolio/)
+
+</td>
+</tr>
+</table>
+
+### ⚡ **Impact & Achievements**
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=faizan-mati&style=for-the-badge&color=00D9FF&label=VISITORS)](https://github.com/faizan-mati)
-[![GitHub Followers](https://img.shields.io/github/followers/faizan-mati?style=for-the-badge&color=00D9FF&labelColor=1c1c1c)](https://github.com/faizan-mati)
-[![Years Coding](https://img.shields.io/badge/Coding%20Since-2023-00D9FF?style=for-the-badge&labelColor=1c1c1c)](https://github.com/faizan-mati)
+
+![Team Leadership](https://img.shields.io/badge/Team%20Size-3%20Developers-6366F1?style=flat-square&logo=users&logoColor=white)
+![Efficiency](https://img.shields.io/badge/Efficiency%20Boost-30%25-10B981?style=flat-square&logo=trending-up&logoColor=white)
+![Students Served](https://img.shields.io/badge/Students%20Served-500%2B-F59E0B?style=flat-square&logo=academic-cap&logoColor=white)
+![Client Satisfaction](https://img.shields.io/badge/Client%20Satisfaction-100%25-EF4444?style=flat-square&logo=heart&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-🎯 **Current Role:** Software Engineer & Team Lead at AI Ameera Apparel  
-🚀 **Entrepreneur:** Founder of EVO TECH STUDIO (Part-time Startup)  
-🌍 **Location:** Korangi, Karachi, Pakistan 🇵🇰  
-🎓 **Education:** BS Computer Science @ Ilma University (2024-2028)  
-📧 **Email:** faizanmatee@gmail.com  
-📱 **Phone:** +92 324 3354583  
-
-### 🔥 Quick Highlights
-- 💼 **Leading a team of 3 developers** building custom ERP systems
-- 📈 **Improved operational efficiency by 30%** through automated workflows  
-- 🎯 **Acquired 2 clients** within first quarter of startup operations
-- 🏫 **Served 500+ students** with Institute Management System
-- ⚡ **100% client satisfaction rate** across all projects
-
-### 🛠️ What I'm Currently Working On
-- 🤖 **Agentic and Robotic AI Engineering** (Presidential Initiative)
-- 🏢 **Custom ERP System** using C# .NET and SQL Server
-- 🌐 **B2B Website Development** projects
-- 📱 **Scaling EVO TECH STUDIO** operations
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Tech Stack & Expertise
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-### 💻 Frontend Mastery
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap&theme=dark" />
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### ⚙️ Backend Powerhouse  
-<img src="https://skillicons.dev/icons?i=php,cs,nodejs,express,python,dotnet&theme=dark" />
+### **Backend**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Database & Storage
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,wordpress,vscode&theme=dark" />
+### **Database & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> Professional Journey
+## 📊 **GitHub Analytics**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=faizan-mati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizan-mati&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=6366F1&icon_color=6366F1&text_color=1F2937">
+</picture>
+
+</td>
+<td width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-mati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-mati&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=6366F1&text_color=1F2937">
+</picture>
+
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=faizan-mati&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-mati&theme=default&hide_border=true&background=FFFFFF&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1">
+</picture>
+
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 **Personal Portfolio**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Impact:** 40% increase in qualified leads  
+**Features:** Responsive, SEO-optimized, Interactive
+
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-6366F1?style=flat-square)](https://faizan-mati.github.io/MyPortfolio/)
+
+</td>
+<td width="50%">
+
+### 🏫 **Institute Management System**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Impact:** Serving 500+ students  
+**Achievement:** 40% workload reduction
+
+[![Case Study](https://img.shields.io/badge/📋%20Case%20Study-10B981?style=flat-square)](#)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📈 **Professional Timeline**
 
 <div align="center">
 
-```mermaid
-timeline
-    title Faizan's Professional Timeline
-    
-    2021-2024 : Diploma in CIT (MITI)
-              : Programming Fundamentals
-              : Database Systems
-    
-    2023     : Web Development Training
-             : The Hunar Foundation
-             : MERN Stack Certification
-    
-    Nov 2023 : Web Developer
-             : The Hunar Foundation
-             : Built IMS for 500+ students
-             : 40% workload reduction
-    
-    2025     : Software Engineer & Team Lead
-             : AI Ameera Apparel
-             : Leading 3 developers
-             : 30% efficiency improvement
-             
-    2025     : Founder - EVO TECH STUDIO
-             : 2 clients acquired
-             : 100% satisfaction rate
-             
-    Present  : AI Engineer Certification
-             : Presidential Initiative
-             : BS Computer Science
+```
+2021 ────● Diploma in CIT (MITI)
+         │ Foundation in Programming
+         │
+2023 ────● Web Development Training
+         │ MERN Stack Certification
+         │
+2024 ────● Web Developer @ Hunar Foundation
+         │ Built IMS for 500+ students
+         │
+2025 ────● Software Engineer & Team Lead
+         │ Leading 3 developers
+         │ Founded EVO TECH STUDIO
+         │
+Now  ────● AI Engineering Certification
+         │ Presidential Initiative
 ```
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"> Featured Projects
+## 🎯 **Current Focus**
 
 <div align="center">
-  
-### 🌟 [Personal Portfolio Website](https://faizan-mati.github.io/MyPortfolio/)
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap  
-**Impact:** 40% increase in qualified leads  
-**Features:** Responsive design, SEO-optimized, Interactive UI
-
-[![Portfolio](https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white)](https://faizan-mati.github.io/MyPortfolio/)
-[![Source](https://img.shields.io/badge/📂_Source_Code-1c1c1c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizan-mati)
-
-### 🏫 Institute Management System (IMS)
-**Tech Stack:** PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript  
-**Impact:** Serving 500+ students and 50+ staff  
-**Achievement:** 40% reduction in administrative workload
-
-### 🏢 Custom ERP System
-**Tech Stack:** C# .NET, SQL Server  
-**Impact:** 30% operational efficiency improvement  
-**Role:** Team Lead managing 3 developers
-
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<br><strong>AI & ML</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<br><strong>ERP Systems</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/1256/1256650.png" width="40" height="40"/>
+<br><strong>Team Leadership</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" width="40" height="40"/>
+<br><strong>Startup Growth</strong>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizan-mati&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&border_color=21262d"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizan-mati&layout=compact&langs_count=8&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&border_color=21262d"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-mati&theme=react&background=0D1117&stroke=21262d&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-mati&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"> Achievements & Certifications
+## 🤝 **Let's Connect**
 
 <div align="center">
 
-| 🏆 Achievement | 📅 Year | 🎯 Impact |
-|:---|:---:|---:|
-| **Founded EVO TECH STUDIO** | 2025 | 2 Clients Acquired |
-| **Team Leadership** | 2024-Present | Leading 3 Developers |
-| **Operational Efficiency** | 2024 | 30% Improvement |
-| **Client Satisfaction** | 2025 | 100% Rating |
-| **MERN Stack Certified** | 2024 | Expertizo |
-| **AI Engineer Certification** | 2025 | Presidential Initiative |
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Let's Connect & Collaborate
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-mati)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanmatee@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faizan-mati.github.io/MyPortfolio/)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923243354583)
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122073-c0008bc8-7264-49c5-9bce-c2015bc922f4.png" width="35"> Fun Stats & Metrics
-
-<div align="center">
-
-**🎯 Current Focus Areas:**
-- 🤖 Artificial Intelligence & Machine Learning
-- 🏢 Enterprise Resource Planning Systems  
-- 👥 Team Leadership & Project Management
-- 🚀 Startup Growth & Client Acquisition
-
-**📊 By The Numbers:**
-- 📈 **500+** Students Served
-- 👥 **3** Developers Led
-- 🎯 **2** Startup Clients
-- ⚡ **30%** Efficiency Gains
-- 🏆 **100%** Client Satisfaction
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-mati)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanmatee@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faizan-mati.github.io/MyPortfolio/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923243354583)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&width=100%"/>
-</div>
 
-<div align="center">
-  
-**🎯 "Building tomorrow's solutions with today's code"**
+### 💫 **"Code is poetry written in logic"**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+![Visitors](https://komarev.com/ghpvc/?username=faizan-mati&style=flat-square&color=6366F1&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/faizan-mati?style=flat-square&color=6366F1)
+![GitHub stars](https://img.shields.io/github/stars/faizan-mati?style=flat-square&color=6366F1)
 
-*Currently accepting new projects and collaborations!*  
-*Let's build something amazing together! 🚀*
+<sub>⭐ **Currently accepting new projects and collaborations!**</sub>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=60&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6&height=60&section=footer">
+</picture>
